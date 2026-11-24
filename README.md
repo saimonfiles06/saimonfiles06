@@ -49,7 +49,7 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**sabitech**](https://github.com/saimonfiles06/sabitech) | Aplicación web para gestionar reservas y asistencia a jornadas de charlas: reserva de plaza, correo de confirmación, panel de administración y registro de asistencia con **QR que cambia cada 30 s** validado en el servidor. | Laravel · React · MySQL · Docker |
-| [**gestion_finanzas_pruebas**](https://github.com/saimonfiles06/gestion_finanzas_demo) | Aplicación de finanzas personales: ingresos y gastos, cuentas, bancos, categorías, presupuestos y objetivos de ahorro, con dashboard y resumen. | PHP · MySQL |
+| [**gestion_finanzas_demo**](https://github.com/saimonfiles06/gestion_finanzas_demo) | Aplicación de finanzas personales: ingresos y gastos, cuentas, bancos, categorías, presupuestos y objetivos de ahorro, con dashboard y resumen. | PHP · MySQL |
 | [**landingPage**](https://github.com/saimonfiles06/landingPage) · [demo](https://landing-page-ruddy-chi-42.vercel.app) | Landing page desplegada en Vercel. | Angular · TypeScript |
 | [**proyectoFinal**](https://github.com/saimonfiles06/proyectoFinal) · [demo](https://proyecto-final-orpin-seven.vercel.app) | Proyecto final de la primera evaluación de Diseño de Interfaces (DI): web con zona de usuario y juegos. | HTML · CSS · JavaScript · PHP |
 | [**gestion_obras**](https://github.com/saimonfiles06/gestion_obras) | Gestión de obras: interfaz web con área de usuario. | HTML · CSS · PHP |
